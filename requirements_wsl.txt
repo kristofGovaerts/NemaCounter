@@ -1,5 +1,0 @@
-pandas
-yolov5
-segment_anything
-ultralytics
-customtkinter
